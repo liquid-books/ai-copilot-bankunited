@@ -1,0 +1,35 @@
+# MyST project configuration
+# Docs: https://mystmd.org/guide/configuration
+version: 1
+project:
+  title: "The Essence of AI: A Microsoft Copilot Master Class for BankUnited"
+  authors:
+    - name: Dr. Ernesto Lee
+  # Book-level attributes
+  keywords: []
+  license: CC-BY-4.0
+  open_access: true
+  github: https://github.com/liquid-books/ai-copilot-bankunited
+  # Numbering
+  numbering:
+    heading_1: true
+    heading_2: true
+    heading_3: true
+    figure: true
+    table: true
+    equation: true
+  # Table of contents — chapters added here as they are written
+  toc:
+    - file: index.md
+    - title: "Introduction: Why This Moment Matters"
+      file: chapters/ch00-introduction.md
+    - title: "Chapter 1: The Essentials"
+      file: chapters/ch01-the-essentials.md
+
+site:
+  title: "The Essence of AI: A Microsoft Copilot Master Class for BankUnited"
+  options:
+    logo_text: "The Essence of AI: A Microsoft Copilot Master Class for BankUnited"
+    logo_url: "/"
+  parts:
+    primary_sidebar_footer: primary-sidebar-footer.md
