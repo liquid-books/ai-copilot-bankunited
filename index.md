@@ -54,6 +54,11 @@ The story of BankUnited, the AI transformation of banking, and why this moment i
 LLMs, tokens, context engineering, the Flashlight Theory, personas, meta-prompting, tools, and agents — your complete AI foundation.
 :::
 
+:::{grid-item-card} Chapter 2: The Mindset Shift
+:link: ./chapters/ch02-mindset-shift.md
+From Task Doer to AI Orchestrator. The inner work that determines whether everything that follows actually sticks.
+:::
+
 <!-- GRID_PLACEHOLDER -->
 
 :::
