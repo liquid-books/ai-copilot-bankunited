@@ -27,6 +27,10 @@ project:
       file: chapters/ch01-the-essentials.md
     - title: "Chapter 2: The Mindset Shift"
       file: chapters/ch02-mindset-shift.md
+    - title: "Chapter 3: Change Management"
+      file: chapters/ch03-change-management.md
+    - title: "Chapter 4: Adoption & Implementation of AI"
+      file: chapters/ch04-adoption-implementation.md
 
 site:
   title: "The Essence of AI: A Microsoft Copilot Master Class for BankUnited"

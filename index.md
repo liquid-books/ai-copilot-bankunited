@@ -59,6 +59,16 @@ LLMs, tokens, context engineering, the Flashlight Theory, personas, meta-prompti
 From Task Doer to AI Orchestrator. The inner work that determines whether everything that follows actually sticks.
 :::
 
+:::{grid-item-card} Chapter 3: Change Management
+:link: ./chapters/ch03-change-management.md
+Leading and sustaining AI transformation inside BankUnited — Kotter, ADKAR, Champions, the 100-day playbook, and the governance line between protection and paralysis.
+:::
+
+:::{grid-item-card} Chapter 4: Adoption & Implementation
+:link: ./chapters/ch04-adoption-implementation.md
+From pilot to enterprise. The regulatory landscape, Microsoft's compliance architecture, risk frameworks, the AI CoE, and the economics that make the case.
+:::
+
 <!-- GRID_PLACEHOLDER -->
 
 :::
