@@ -31,6 +31,8 @@ project:
       file: chapters/ch03-change-management.md
     - title: "Chapter 4: Adoption & Implementation of AI"
       file: chapters/ch04-adoption-implementation.md
+    - title: "Chapter 6: Copilot in Word"
+      file: chapters/ch06-copilot-in-word.md
     - title: "Chapter 7: Copilot in Excel"
       file: chapters/ch07-copilot-in-excel.md
     - title: "Chapter 5: Introduction to Microsoft Copilot & Prompting Essentials"
