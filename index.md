@@ -91,6 +91,10 @@ Formula generation, natural-language charts, Pivot Tables, trend identification,
 :link: ./chapters/ch09-copilot-in-teams.md
 Meeting intelligence, real-time summaries, action item extraction, the two Copilot modes, organizer controls, consent and transparency, and BankUnited workflows for loan committees, deal reviews, examiner meetings, and client calls.
 :::
+:::{grid-item-card} Chapter 8: Copilot in PowerPoint
+:link: ./chapters/ch08-copilot-in-powerpoint.md
+From working doc to boardroom deck in minutes — board prep, loan committee packages, examiner-ready briefings, and client presentations using Copilot in PowerPoint.
+:::
 <!-- GRID_PLACEHOLDER -->
 
 :::
