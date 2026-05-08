@@ -202,6 +202,15 @@ These architectural features map directly to the regulatory requirements above: 
 
 ## 5. Microsoft Graph and Work IQ — Your AI Already Knows Your Work
 
+:::{figure} ../images/ch04-microsoft-graph.png
+:label: fig-ch04-microsoft-graph
+:alt: Microsoft Graph connecting BankUnited's M365 data to Copilot
+:width: 80%
+:align: center
+
+Microsoft Graph is the connective tissue between Copilot and your entire M365 ecosystem — emails, documents, meetings, and files — making your AI contextually aware of your actual work.
+:::
+
 One of the most underappreciated aspects of Microsoft 365 Copilot's architecture is what Microsoft calls the **Microsoft Graph** — the data layer that connects all M365 services and makes your Copilot contextually aware of your actual work.
 
 The Microsoft Graph is the technical infrastructure that answers the question: *"How does Copilot know about my emails and calendar without me having to tell it?"*
@@ -332,6 +341,15 @@ The CoE does not need to be large to be effective. At BankUnited's scale, a part
 ---
 
 ## 8. The Economics — Making the Case for AI Investment
+
+:::{figure} ../images/ch04-cost-of-inaction.png
+:label: fig-ch04-cost-of-inaction
+:alt: The diverging performance gap between banks that adopt AI and those that don't
+:width: 80%
+:align: center
+
+The cost of inaction compounds over time — banks that delay AI adoption fall further behind competitors on speed, productivity, and talent retention with every passing quarter.
+:::
 
 We have covered the technology, the regulation, the architecture, and the organizational structure. Now let's talk about money — because every investment at BankUnited requires a defensible return, and AI is no exception.
 

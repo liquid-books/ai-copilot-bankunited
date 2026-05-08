@@ -178,6 +178,15 @@ The leader's job is not to push people through these phases faster. It is to mak
 
 ## 3. Why AI Adoption Fails — The Five Organizational Failure Modes
 
+:::{figure} ../images/ch03-failure-modes.png
+:label: fig-ch03-failure-modes
+:alt: Five organizational failure modes that kill AI adoption programs at banks
+:width: 80%
+:align: center
+
+The five failure modes that consistently derail AI adoption at financial institutions — each preventable with the right organizational design.
+:::
+
 With the frameworks in place, let us name the specific failure modes that appear most consistently in AI adoption programs at financial institutions. These are not theoretical. They are drawn from the pattern across organizations that invested significantly in AI tools and measured minimal returns.
 
 **Failure Mode 1: Tool-First, Workflow-Never**
@@ -295,6 +304,15 @@ Resistance is not uniform. The right move depends on which archetype you're deal
 
 ## 6. Communication Patterns That Build Trust
 
+:::{figure} ../images/ch03-communication-patterns.png
+:label: fig-ch03-communication-patterns
+:alt: Communication patterns that build trust during AI adoption at a bank
+:width: 80%
+:align: center
+
+Effective AI change communication flows from executive leadership through managers and champions to every employee — with feedback loops built in at every level.
+:::
+
 The way leaders talk about AI inside BankUnited matters enormously — more than most leaders realize. The wrong communication pattern creates fear, breeds cynicism, and makes the resistance archetypes entrench further. The right pattern builds the psychological safety that allows people to experiment, fail, learn, and grow.
 
 Here are the communication patterns that work — and the ones that undermine what they intend:
@@ -379,6 +397,15 @@ The playbook is a beginning, not a destination. Its job is to build enough momen
 ---
 
 ## 8. Governance vs. Permission — Finding the Line Between Protection and Paralysis
+
+:::{figure} ../images/ch03-governance-line.png
+:label: fig-ch03-governance-line
+:alt: The governance spectrum from paralysis by policy to reckless adoption, with the right line in the center
+:width: 80%
+:align: center
+
+The governance spectrum: over-restriction kills adoption just as surely as reckless deployment kills trust. The right line is governed innovation.
+:::
 
 This is the hardest conversation in every AI adoption program inside a regulated institution. And it is worth having directly.
 

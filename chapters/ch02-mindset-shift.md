@@ -251,6 +251,15 @@ Which brings us to the most important single question in this entire chapter.
 
 ## 6. The Cognitive Journey — Five Reframes That Change Everything
 
+:::{figure} ../images/ch02-cognitive-journey.png
+:label: fig-ch02-cognitive-journey
+:alt: The five-stage cognitive journey from AI awareness to full integration
+:width: 80%
+:align: center
+
+The cognitive journey of AI adoption moves through five stages — from initial awareness through experimentation to confident integration.
+:::
+
 Before we get to that question, let us arm you with the specific reframes that the professionals who successfully navigate the AI transition make — often implicitly, sometimes consciously.
 
 These are not affirmations. They are structural shifts in how you position yourself relative to the change:
