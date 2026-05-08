@@ -95,6 +95,10 @@ Meeting intelligence, real-time summaries, action item extraction, the two Copil
 :link: ./chapters/ch08-copilot-in-powerpoint.md
 From working doc to boardroom deck in minutes — board prep, loan committee packages, examiner-ready briefings, and client presentations using Copilot in PowerPoint.
 :::
+:::{grid-item-card} Chapter 10: Copilot in OneNote
+:link: ./chapters/ch10-copilot-in-onenote.md
+Notes that think with you — summarizing meeting notes, rewriting rough captures, generating action item lists, drafting new content, and building structured Client Discovery, Deal Review, and Exam Prep notebooks for BankUnited professionals.
+:::
 <!-- GRID_PLACEHOLDER -->
 
 :::
