@@ -37,6 +37,8 @@ project:
       file: chapters/ch07-copilot-in-excel.md
     - title: "Chapter 5: Introduction to Microsoft Copilot & Prompting Essentials"
       file: chapters/ch05-prompting-essentials.md
+    - title: "Chapter 9: Copilot in Teams"
+      file: chapters/ch09-copilot-in-teams.md
 
 site:
   title: "The Essence of AI: A Microsoft Copilot Master Class for BankUnited"

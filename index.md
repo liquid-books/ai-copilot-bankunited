@@ -87,6 +87,10 @@ Drafting, summarization, tone adjustment, and the verification discipline — ho
 :link: ./chapters/ch07-copilot-in-excel.md
 Formula generation, natural-language charts, Pivot Tables, trend identification, outlier detection, and the verification discipline — the complete Copilot-in-Excel toolkit for BankUnited professionals.
 :::
+:::{grid-item-card} Chapter 9: Copilot in Teams
+:link: ./chapters/ch09-copilot-in-teams.md
+Meeting intelligence, real-time summaries, action item extraction, the two Copilot modes, organizer controls, consent and transparency, and BankUnited workflows for loan committees, deal reviews, examiner meetings, and client calls.
+:::
 <!-- GRID_PLACEHOLDER -->
 
 :::
