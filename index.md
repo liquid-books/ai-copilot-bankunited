@@ -77,11 +77,15 @@ From pilot to enterprise. The regulatory landscape, Microsoft's compliance archi
 
 ## 📥 Session Decks
 
-Download the presentation slides from each session below.
+:::{grid} 1
 
-```{raw} html
-<a href="https://github.com/liquid-books/ai-copilot-bankunited/raw/main/decks/The_Essence_of_AI_with_Microsoft_Enterprise_Copilot.pdf" download style="display:inline-block;padding:12px 24px;background:#2563eb;color:#fff;font-weight:bold;text-decoration:none;border-radius:6px;margin-top:8px;">⬇ Session 1 — The Essence of AI with Microsoft Enterprise Copilot (PDF)</a>
-```
+:::{grid-item-card} ⬇ Session 1 — The Essence of AI with Microsoft Enterprise Copilot (PDF)
+:link: https://github.com/liquid-books/ai-copilot-bankunited/raw/main/decks/The_Essence_of_AI_with_Microsoft_Enterprise_Copilot.pdf
+:link-type: url
+Click to download the Session 1 presentation deck.
+:::
+
+:::
 
 ---
 
