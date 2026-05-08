@@ -40,6 +40,12 @@ By the time you complete this program, you will not just understand AI. You will
 
 ---
 
+## 📥 Session Decks
+
+**[⬇ Session 1 — The Essence of AI with Microsoft Enterprise Copilot (PDF)](https://github.com/liquid-books/ai-copilot-bankunited/raw/main/decks/The_Essence_of_AI_with_Microsoft_Enterprise_Copilot.pdf)**
+
+---
+
 ## Available Chapters
 
 :::{grid} 2
@@ -70,20 +76,6 @@ From pilot to enterprise. The regulatory landscape, Microsoft's compliance archi
 :::
 
 <!-- GRID_PLACEHOLDER -->
-
-:::
-
----
-
-## 📥 Session Decks
-
-:::{grid} 1
-
-:::{grid-item-card} ⬇ Session 1 — The Essence of AI with Microsoft Enterprise Copilot (PDF)
-:link: https://github.com/liquid-books/ai-copilot-bankunited/raw/main/decks/The_Essence_of_AI_with_Microsoft_Enterprise_Copilot.pdf
-:link-type: url
-Click to download the Session 1 presentation deck.
-:::
 
 :::
 
