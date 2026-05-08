@@ -78,7 +78,3 @@ From pilot to enterprise. The regulatory landscape, Microsoft's compliance archi
 <!-- GRID_PLACEHOLDER -->
 
 :::
-
----
-
-*Made by DrLee.ai*

@@ -559,6 +559,159 @@ These exercises are practical change management tools you can use immediately. T
 
 ---
 
+## 10. The AI Readiness Questionnaire — Your Culture Diagnostic Tool
+
+Everything in this chapter — the frameworks, the archetypes, the 100-day playbook — works only if you have an honest picture of where your team actually stands today. Not where you hope they are. Not the official narrative. The real picture.
+
+That is what this diagnostic tool gives you.
+
+The **AI Readiness and Integration Questionnaire** is a 15-question instrument designed to surface three things simultaneously: where each individual sits on the AI maturity spectrum, how the team perceives the organization's AI capability, and where the highest-value AI automation opportunities are hiding inside your day-to-day work.
+
+:::{admonition} How to Use This Tool with Your Team
+:class: tip
+
+**Step 1 — Distribute individually.** Send the questionnaire to your team before a team meeting or session. Anonymous responses are fine — and often more honest. Give people 10 minutes to complete it on their own, in private.
+
+**Step 2 — Present the aggregate results.** In your session, share the thematic patterns — not individual responses. "Three people said compliance review is our biggest bottleneck." "Most of us rated our AI skill at 4 or 5 out of 10." This creates a shared reality without exposing individuals.
+
+**Step 3 — Use it as your implementation roadmap.** The responses to questions 10, 11, and 12 are not just survey data — they are a direct map to your first AI pilots. When five people independently name the same pain point, that is your starting place.
+
+**Step 4 — Repeat in 90 days.** Run the same questionnaire again. The shift in scores is your culture change metric.
+:::
+
+[**→ Take the AI Readiness and Integration Questionnaire**](https://forms.gle/EW1GhoGfcWB9vnMfA)
+
+---
+
+### Understanding the Five Dimensions the Questionnaire Measures
+
+The 15 questions are not random. They are organized around five diagnostic dimensions, each revealing a different layer of readiness.
+
+---
+
+#### Dimension 1 — Personal AI Sovereignty (Questions 3, 4, 5)
+
+*Where are you on the AI maturity scale?*
+
+These questions assess your personal relationship with AI — not your organization's, yours. This matters because organizational AI adoption is always, at its foundation, the aggregate of individual journeys. You cannot build an AI-capable culture from people who have never personally experienced AI doing something useful.
+
+The AI maturity scale for individuals runs from five recognizable stages:
+
+```{list-table} Personal AI Maturity Scale
+:header-rows: 1
+:label: table-ch03-ai-maturity
+
+* - Level
+  - Stage
+  - What It Looks Like
+  - Score Range
+* - **1**
+  - **AI Unaware**
+  - Has not meaningfully engaged with AI tools. May have heard of ChatGPT but hasn't used it for real work.
+  - 1–2
+* - **2**
+  - **AI Curious**
+  - Has experimented — tried a few prompts, played with a chatbot, seen a demo. But nothing has changed how they work.
+  - 3–4
+* - **3**
+  - **AI Functional**
+  - Uses AI tools weekly for specific, repeated tasks. Has found at least one thing AI does reliably well. Getting value, but still dependent on the AI's defaults.
+  - 5–6
+* - **4**
+  - **AI Integrated**
+  - AI is embedded in daily workflow. Prompts intentionally. Has developed personal prompt libraries, personas, and workflows. Would feel meaningfully slower without it.
+  - 7–8
+* - **5**
+  - **AI Sovereign**
+  - Designs AI solutions. Builds agents, automations, and custom workflows. Thinks in systems, not just tasks. Could teach this to others.
+  - 9–10
+```
+
+Most professionals at BankUnited will score between a 3 and a 6 — functionally aware, selectively capable, but not yet integrated. That is not a failure. It is the starting point. The gap between a 5 and an 8 is not talent — it is deliberate practice, structured exposure, and a permission environment that says it is safe to experiment.
+
+Question 4 — *What's the most impressive thing you've done with AI that actually stuck in your workflow?* — is the most revealing question in the instrument. An honest answer reveals whether someone has crossed the threshold from curiosity to functional use. If someone cannot answer it, their score is probably a 3 or below, regardless of what they selected in question 3.
+
+Question 5 — *What's been your biggest barrier?* — tells you what is between your team and their next level. Not enough time, not knowing where to start, distrust of outputs — each answer requires a different intervention. This is where your Champions become critical: peer-to-peer credibility removes barriers that no training deck can touch.
+
+---
+
+#### Dimension 2 — Organizational AI Perception (Questions 6, 7, 8)
+
+*How does your team see BankUnited's AI readiness?*
+
+These three questions reveal something leaders often do not know: the gap between the official AI narrative and the experienced reality. An organization can have a formal AI strategy and still have a workforce that experiences the environment as ad hoc and unsupported. That gap is a trust problem, and it is a change management problem before it is a technology problem.
+
+Question 6 asks what percentage of the team is genuinely AI-capable. The responses here reveal something important: how visible AI adoption is to peers. If Champions are working in isolation — getting results but not sharing them — their colleagues will underestimate the actual capability level of the team.
+
+Question 7 assesses whether people experience the organization's AI strategy as real or rhetorical. The difference between "we're exploring" and "we have a formal strategy with KPIs" is not semantics — it is the difference between employees feeling that AI initiatives have institutional backing or that they are on their own.
+
+Question 8 — the Bus Factor question — is the most uncomfortable one in the instrument. *If your top three people left tomorrow, what would break first?* This question surfaces something that AI cannot fix: the organizational fragility of undocumented expertise. But it is also the clearest indicator of where AI-powered documentation, knowledge capture, and process codification would create the most immediate institutional value. If the answer is "almost everything would break," you have just identified your first AI pilot.
+
+---
+
+#### Dimension 3 — Role Context (Question 9)
+
+*What is your role?*
+
+This question replaced the original "industry" field because inside BankUnited, the relevant variable is not industry — it is function. A relationship manager, a compliance officer, an operations analyst, and a branch manager all work in banking, but they have radically different AI use cases, different risk tolerances for AI outputs, and different workflows where AI can create value.
+
+Segmenting responses by role allows you to do targeted analysis: where are the Commercial Lending professionals experiencing friction? What are Operations teams identifying as their biggest bottlenecks? Role-based patterns produce role-specific pilot candidates.
+
+---
+
+#### Dimension 4 — Pain Points Addressable by AI (Question 10)
+
+*What workflows are high-volume, error-prone, or expertise-dependent?*
+
+This is the question that separates diagnostic surveys from actionable intelligence. Question 10 asks people to describe 2-3 critical business workflows that are either high-volume, error-prone, or require expensive expertise to execute — specifically those with the most manual handoffs or where errors cost the most.
+
+The responses to this question are, in effect, a crowdsourced AI opportunity map. When multiple people from different roles identify the same workflow as painful, that convergence is your highest-confidence pilot candidate. The three characteristics that make a workflow AI-ready — high volume, clear structure, and tolerance for imperfect output — often align directly with the workflows that frustrate people most.
+
+Thematic analysis of question 10 responses across your team will almost always surface 2-3 workflows where a well-designed Copilot prompt library, an agent, or an automation would create immediate, measurable time savings.
+
+---
+
+#### Dimension 5 — AI Automation Opportunities (Questions 11, 12)
+
+*Where would AI create the most value if it worked perfectly?*
+
+Questions 11 and 12 access something that structured workflow analysis often misses: employee aspiration and pain. Question 11 — *If you could wave a magic wand and have AI handle one thing perfectly starting tomorrow, what would it be?* — reveals where people are most frustrated with their current cognitive load. The "magic wand" framing removes pragmatic filters and gets to the honest answer.
+
+Question 12 asks for the single biggest bottleneck or process failure, with an estimate of cost or time lost. This question produces the data you need to build a business case. When employees themselves are estimating the cost of a broken process, the ROI conversation becomes grounded in lived experience rather than consultant projections.
+
+Together, questions 11 and 12 give you the data to answer the three questions every AI implementation requires: *Where does AI create the most value? What does success look like? How do we measure it?*
+
+---
+
+### Conducting a Thematic Analysis — Turning Responses Into a Culture Change Roadmap
+
+The questionnaire is most powerful when aggregated. Here is how to run a basic thematic analysis that turns 15-30 individual responses into an organizational action plan.
+
+:::{admonition} Thematic Analysis Protocol (45 minutes)
+:class: note
+
+**Step 1 — Score the Maturity Distribution (10 min)**
+Tally question 3 responses. Plot your team on the maturity scale. What is the median? What is the range? Are most people at Level 2 (Curious) or Level 3 (Functional)? This tells you the appropriate starting point for your 100-day plan.
+
+**Step 2 — Surface the Perception Gap (5 min)**
+Compare question 6 and 7 responses to what you know to be true as a leader. If people perceive lower capability or weaker strategy than you know exists, you have a communication gap. That is a leadership action item, not a training action item.
+
+**Step 3 — Map the Pain Points (15 min)**
+Read all responses to question 10. Highlight recurring themes. Write each unique workflow on a sticky note or slide. Group them. The clusters that emerge — especially those appearing across multiple roles — are your pilot candidates.
+
+**Step 4 — Identify the Top 3 Automation Opportunities (10 min)**
+Read questions 11 and 12 together. Look for convergence. Where do people's magic-wand wishes align with their identified bottlenecks? That intersection is your highest-confidence AI implementation target.
+
+**Step 5 — Build Your Implementation Priority Matrix (5 min)**
+Plot your top 3-5 opportunities on a simple 2×2: Impact (High/Low) vs. Feasibility (High/Low). Start with High Impact, High Feasibility — these are your Day 1-30 pilots in the 100-day playbook.
+:::
+
+The goal of this exercise is not a perfect analysis. It is a shared, evidence-based starting point. When a team of 20 people has collectively named their pain points, their aspirations, and their capability gaps — and those responses are reflected back to them as a group — something important happens culturally: people feel heard, and the AI initiative stops feeling like something being done to them. It starts feeling like something they helped design.
+
+That shift — from AI as imposition to AI as response — is the foundation of sustainable culture change.
+
+---
+
 ## Chapter Summary
 
 Change management is not the soft side of AI adoption. It is the whole game.
