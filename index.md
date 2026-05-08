@@ -79,6 +79,10 @@ From pilot to enterprise. The regulatory landscape, Microsoft's compliance archi
 :link: ./chapters/ch05-prompting-essentials.md
 The five prompting techniques — Role-Based, Chain-of-Thought, Few-Shot, Reverse, and Sparring Partner — that separate average Copilot users from power users. Grounded in how Microsoft 365 Copilot actually works.
 :::
+:::{grid-item-card} Chapter 7: Copilot in Excel
+:link: ./chapters/ch07-copilot-in-excel.md
+Formula generation, natural-language charts, Pivot Tables, trend identification, outlier detection, and the verification discipline — the complete Copilot-in-Excel toolkit for BankUnited professionals.
+:::
 <!-- GRID_PLACEHOLDER -->
 
 :::
