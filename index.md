@@ -75,6 +75,10 @@ Leading and sustaining AI transformation inside BankUnited — Kotter, ADKAR, Ch
 From pilot to enterprise. The regulatory landscape, Microsoft's compliance architecture, risk frameworks, the AI CoE, and the economics that make the case.
 :::
 
+:::{grid-item-card} Chapter 5: Prompting Essentials
+:link: ./chapters/ch05-prompting-essentials.md
+The five prompting techniques — Role-Based, Chain-of-Thought, Few-Shot, Reverse, and Sparring Partner — that separate average Copilot users from power users. Grounded in how Microsoft 365 Copilot actually works.
+:::
 <!-- GRID_PLACEHOLDER -->
 
 :::

@@ -31,6 +31,8 @@ project:
       file: chapters/ch03-change-management.md
     - title: "Chapter 4: Adoption & Implementation of AI"
       file: chapters/ch04-adoption-implementation.md
+    - title: "Chapter 5: Introduction to Microsoft Copilot & Prompting Essentials"
+      file: chapters/ch05-prompting-essentials.md
 
 site:
   title: "The Essence of AI: A Microsoft Copilot Master Class for BankUnited"
