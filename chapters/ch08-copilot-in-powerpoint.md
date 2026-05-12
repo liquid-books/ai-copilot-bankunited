@@ -7,6 +7,12 @@ label: ch-08-copilot-in-powerpoint
 tags: [Copilot in PowerPoint, presentation AI, board prep, loan committee, examiner deck, speaker notes, BankUnited, Microsoft 365, slide generation, verification discipline]
 ---
 
+```{admonition} Download this Chapter as PDF
+:class: tip
+
+[Download PDF](https://github.com/liquid-books/ai-copilot-bankunited/raw/main/pdfs/ch08-copilot-in-powerpoint.pdf)
+```
+
 # Chapter 8: Week 3, Session A — Copilot in PowerPoint
 
 :::{figure} ../images/ch08-powerpoint-infographic.png

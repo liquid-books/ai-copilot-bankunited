@@ -7,6 +7,12 @@ label: ch-00-introduction
 tags: [introduction, AI, BankUnited, Microsoft Copilot, overview]
 ---
 
+```{admonition} Download this Chapter as PDF
+:class: tip
+
+[Download PDF](https://github.com/liquid-books/ai-copilot-bankunited/raw/main/pdfs/ch00-introduction.pdf)
+```
+
 # Overview & Introduction: Why This Moment Matters
 
 :::{figure} ../images/ch00-intro-infographic.png

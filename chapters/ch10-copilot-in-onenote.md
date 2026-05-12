@@ -7,6 +7,12 @@ label: ch-10-copilot-in-onenote
 tags: [Copilot in OneNote, summarize notes, task lists, rewrite notes, OneNote, Microsoft 365, BankUnited, knowledge management, client discovery, deal review, exam prep, notebook organization, note-taking]
 ---
 
+```{admonition} Download this Chapter as PDF
+:class: tip
+
+[Download PDF](https://github.com/liquid-books/ai-copilot-bankunited/raw/main/pdfs/ch10-copilot-in-onenote.pdf)
+```
+
 # Chapter 10: Week 3, Session C — Copilot in OneNote
 
 :::{figure} ../images/ch10-onenote-chapter-infographic.png

@@ -7,6 +7,12 @@ label: ch-03-change-management
 tags: [change management, AI adoption, Kotter, ADKAR, champions, BankUnited, leadership, transformation]
 ---
 
+```{admonition} Download this Chapter as PDF
+:class: tip
+
+[Download PDF](https://github.com/liquid-books/ai-copilot-bankunited/raw/main/pdfs/ch03-change-management.pdf)
+```
+
 # Chapter 3: Change Management
 
 :::{figure} ../images/ch03-change-management-infographic.png

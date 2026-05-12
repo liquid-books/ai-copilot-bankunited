@@ -7,6 +7,12 @@ label: ch-04-adoption-implementation
 tags: [AI adoption, implementation, financial services, Microsoft Copilot, governance, compliance, OCC, ROI, Center of Excellence, BankUnited]
 ---
 
+```{admonition} Download this Chapter as PDF
+:class: tip
+
+[Download PDF](https://github.com/liquid-books/ai-copilot-bankunited/raw/main/pdfs/ch04-adoption-implementation.pdf)
+```
+
 # Chapter 4: Adoption & Implementation of AI
 
 :::{figure} ../images/ch04-adoption-infographic.png

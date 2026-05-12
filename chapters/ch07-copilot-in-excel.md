@@ -7,6 +7,12 @@ label: ch-07-copilot-in-excel
 tags: [Excel, Copilot, data analysis, formula generation, data cleaning, visualization, pivot tables, trend identification, outlier detection, BankUnited, banking analytics, DDA, branch performance, Microsoft 365]
 ---
 
+```{admonition} Download this Chapter as PDF
+:class: tip
+
+[Download PDF](https://github.com/liquid-books/ai-copilot-bankunited/raw/main/pdfs/ch07-copilot-in-excel.pdf)
+```
+
 # Chapter 7: Week 3, Session C — Copilot in Excel
 
 :::{figure} ../images/ch07-excel-overview-infographic.png

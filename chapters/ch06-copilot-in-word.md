@@ -7,6 +7,12 @@ label: ch-06-copilot-in-word
 tags: [Copilot in Word, drafting, summarization, tone adjustment, credit memo, compliance brief, BankUnited, Microsoft 365, document AI, verification discipline, rewrite]
 ---
 
+```{admonition} Download this Chapter as PDF
+:class: tip
+
+[Download PDF](https://github.com/liquid-books/ai-copilot-bankunited/raw/main/pdfs/ch06-copilot-in-word.pdf)
+```
+
 # Chapter 6: Week 3, Session B — Copilot in Word
 
 :::{figure} ../images/ch06-word-chapter-infographic.png

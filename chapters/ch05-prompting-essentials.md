@@ -7,6 +7,12 @@ label: ch-05-prompting-essentials
 tags: [Microsoft Copilot, prompting, Microsoft 365, Work IQ, Microsoft Graph, role-based prompting, chain-of-thought, few-shot, reverse prompting, sparring partner, BankUnited]
 ---
 
+```{admonition} Download this Chapter as PDF
+:class: tip
+
+[Download PDF](https://github.com/liquid-books/ai-copilot-bankunited/raw/main/pdfs/ch05-prompting-essentials.pdf)
+```
+
 # Chapter 5: Week 3, Session A — Introduction to Microsoft Copilot & Prompting Essentials
 
 :::{figure} ../images/ch05-copilot-landscape-infographic.png
