@@ -57,48 +57,48 @@ function cleanMyST(content, chapterDir) {
 const cssContent = `
   body {
     font-family: 'Georgia', 'Times New Roman', serif;
-    font-size: 12pt;
-    line-height: 1.7;
+    font-size: 9pt;
+    line-height: 1.55;
     color: #1a1a1a;
     max-width: 750px;
     margin: 0 auto;
-    padding: 20px 40px;
+    padding: 15px 35px;
   }
   h1 {
-    font-size: 24pt;
+    font-size: 17pt;
     color: #003087;
     border-bottom: 3px solid #003087;
-    padding-bottom: 10px;
-    margin-top: 40px;
-  }
-  h2 {
-    font-size: 18pt;
-    color: #003087;
+    padding-bottom: 8px;
     margin-top: 30px;
   }
+  h2 {
+    font-size: 13pt;
+    color: #003087;
+    margin-top: 22px;
+  }
   h3 {
-    font-size: 14pt;
+    font-size: 11pt;
     color: #005eb8;
-    margin-top: 20px;
+    margin-top: 16px;
   }
   h4 {
-    font-size: 12pt;
+    font-size: 9.5pt;
     color: #005eb8;
   }
   code {
     background: #f4f4f4;
-    padding: 2px 6px;
+    padding: 1px 5px;
     border-radius: 3px;
     font-family: 'Courier New', monospace;
-    font-size: 10pt;
+    font-size: 8pt;
   }
   pre {
     background: #f4f4f4;
-    padding: 15px;
+    padding: 12px;
     border-radius: 5px;
     border-left: 4px solid #003087;
     overflow-x: auto;
-    font-size: 10pt;
+    font-size: 8pt;
   }
   blockquote {
     border-left: 4px solid #003087;

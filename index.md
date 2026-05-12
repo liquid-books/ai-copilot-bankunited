@@ -44,6 +44,8 @@ By the time you complete this program, you will not just understand AI. You will
 
 **[⬇ Session 1 — The Essence of AI with Microsoft Enterprise Copilot (PDF)](https://github.com/liquid-books/ai-copilot-bankunited/raw/main/decks/The_Essence_of_AI_with_Microsoft_Enterprise_Copilot.pdf)**
 
+**[⬇ Session 3 — AI as Culture: The BankUnited Advantage (PDF)](https://github.com/liquid-books/ai-copilot-bankunited/raw/main/decks/3_AI_as_Culture_The_BankUnited_Advantage.pdf)**
+
 ---
 
 ## Available Chapters
