@@ -50,6 +50,8 @@ By the time you complete this program, you will not just understand AI. You will
 
 **[⬇ Session 3 — AI as Culture: The BankUnited Advantage (PDF)](https://github.com/liquid-books/ai-copilot-bankunited/raw/main/decks/3_AI_as_Culture_The_BankUnited_Advantage.pdf)**
 
+**[⬇ Session 4 — From Pilot to Enterprise (PDF)](https://github.com/liquid-books/ai-copilot-bankunited/raw/main/decks/4_From_Pilot_to_Enterprise.pdf)**
+
 ---
 
 ## Available Chapters
