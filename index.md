@@ -56,6 +56,20 @@ By the time you complete this program, you will not just understand AI. You will
 
 ---
 
+## 📁 Chapter Resources
+
+Download the files for each chapter below.
+
+### Chapter 7: Copilot in Excel
+
+| File | Type | Download |
+|------|------|----------|
+| BankUnited Copilot Excel Masterclass Demo Workbook | Excel | [⬇ Download](https://github.com/liquid-books/ai-copilot-bankunited/raw/main/resources/BankUnited_Copilot_Excel_Masterclass_Demo_Workbook.xlsx) |
+| Hands-On Lab: Building an AI-Assisted Banking Analytics Workflow in Excel | PDF | [⬇ Download](https://github.com/liquid-books/ai-copilot-bankunited/raw/main/resources/Hands-On_Lab_Building_an_AI-Assisted_Banking_Analytics_Workflow_in_Excel.pdf) |
+| Step-by-Step Live Demo Guide: AI-Assisted Data Analytics in Excel | PDF | [⬇ Download](https://github.com/liquid-books/ai-copilot-bankunited/raw/main/resources/Step-by-Step_Live_Demo_Guide_AI-Assisted_Data_Analytics_in_Excel.pdf) |
+
+---
+
 ## Available Chapters
 
 :::{grid} 2
