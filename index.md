@@ -52,6 +52,8 @@ By the time you complete this program, you will not just understand AI. You will
 
 **[⬇ Session 4 — From Pilot to Enterprise (PDF)](https://github.com/liquid-books/ai-copilot-bankunited/raw/main/decks/4_From_Pilot_to_Enterprise.pdf)**
 
+**[⬇ Session 7 — The Analyst Inside the Spreadsheet (PDF)](https://github.com/liquid-books/ai-copilot-bankunited/raw/main/decks/7_The_Analyst_Inside_the_Spreadsheet.pdf)**
+
 ---
 
 ## Available Chapters
@@ -95,17 +97,25 @@ Drafting, summarization, tone adjustment, and the verification discipline — ho
 :link: ./chapters/ch07-copilot-in-excel.md
 Formula generation, natural-language charts, Pivot Tables, trend identification, outlier detection, and the verification discipline — the complete Copilot-in-Excel toolkit for BankUnited professionals.
 :::
-:::{grid-item-card} Chapter 9: Copilot in Teams
-:link: ./chapters/ch09-copilot-in-teams.md
-Meeting intelligence, real-time summaries, action item extraction, the two Copilot modes, organizer controls, consent and transparency, and BankUnited workflows for loan committees, deal reviews, examiner meetings, and client calls.
-:::
 :::{grid-item-card} Chapter 8: Copilot in PowerPoint
 :link: ./chapters/ch08-copilot-in-powerpoint.md
 From working doc to boardroom deck in minutes — board prep, loan committee packages, examiner-ready briefings, and client presentations using Copilot in PowerPoint.
 :::
+:::{grid-item-card} Chapter 9: Copilot in Teams
+:link: ./chapters/ch09-copilot-in-teams.md
+Meeting intelligence, real-time summaries, action item extraction, the two Copilot modes, organizer controls, consent and transparency, and BankUnited workflows for loan committees, deal reviews, examiner meetings, and client calls.
+:::
 :::{grid-item-card} Chapter 10: Copilot in OneNote
 :link: ./chapters/ch10-copilot-in-onenote.md
 Notes that think with you — summarizing meeting notes, rewriting rough captures, generating action item lists, drafting new content, and building structured Client Discovery, Deal Review, and Exam Prep notebooks for BankUnited professionals.
+:::
+:::{grid-item-card} Chapter 12: Copilot in SharePoint
+:link: ./chapters/ch12-copilot-in-sharepoint.md
+Where knowledge lives — and how AI makes it findable. Permission inheritance, the oversharing risk every bank must understand, content governance for Copilot readiness, and practical workflows for BankUnited teams.
+:::
+:::{grid-item-card} Chapter 13: Advanced Copilot in Excel
+:link: ./chapters/ch13-advanced-excel.md
+Automation, anomaly detection, and scenario modeling for banking analytics. Copilot in Excel for ALCO-ready dashboards, transaction analysis, and building analytical systems — not just answering questions.
 :::
 <!-- GRID_PLACEHOLDER -->
 

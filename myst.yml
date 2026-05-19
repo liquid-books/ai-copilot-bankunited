@@ -31,18 +31,22 @@ project:
       file: chapters/ch03-change-management.md
     - title: "Chapter 4: Adoption & Implementation of AI"
       file: chapters/ch04-adoption-implementation.md
+    - title: "Chapter 5: Introduction to Microsoft Copilot & Prompting Essentials"
+      file: chapters/ch05-prompting-essentials.md
     - title: "Chapter 6: Copilot in Word"
       file: chapters/ch06-copilot-in-word.md
     - title: "Chapter 7: Copilot in Excel"
       file: chapters/ch07-copilot-in-excel.md
-    - title: "Chapter 5: Introduction to Microsoft Copilot & Prompting Essentials"
-      file: chapters/ch05-prompting-essentials.md
-    - title: "Chapter 10: Copilot in OneNote"
-      file: chapters/ch10-copilot-in-onenote.md
     - title: "Chapter 8: Copilot in PowerPoint"
       file: chapters/ch08-copilot-in-powerpoint.md
     - title: "Chapter 9: Copilot in Teams"
       file: chapters/ch09-copilot-in-teams.md
+    - title: "Chapter 10: Copilot in OneNote"
+      file: chapters/ch10-copilot-in-onenote.md
+    - title: "Chapter 12: Copilot in SharePoint"
+      file: chapters/ch12-copilot-in-sharepoint.md
+    - title: "Chapter 13: Advanced Copilot in Excel"
+      file: chapters/ch13-advanced-excel.md
 
 site:
   title: "The Essence of AI: A Microsoft Copilot Master Class for BankUnited"
