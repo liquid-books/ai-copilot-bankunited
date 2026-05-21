@@ -60,6 +60,12 @@ By the time you complete this program, you will not just understand AI. You will
 
 Download the files for each chapter below.
 
+### Chapter 6: Copilot in OneNote
+
+| File | Type | Download |
+|------|------|----------|
+| Chapter 6 — Copilot in OneNote | PDF | [⬇ Download](https://github.com/liquid-books/ai-copilot-bankunited/raw/main/decks/Chapter_6_Copilot_in_OneNote.pdf) |
+
 ### Chapter 7: Copilot in Excel
 
 | File | Type | Download |
