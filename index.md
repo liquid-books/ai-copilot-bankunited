@@ -54,6 +54,8 @@ By the time you complete this program, you will not just understand AI. You will
 
 **[⬇ Session 7 — The Analyst Inside the Spreadsheet (PDF)](https://github.com/liquid-books/ai-copilot-bankunited/raw/main/decks/7_The_Analyst_Inside_the_Spreadsheet.pdf)**
 
+**[⬇ Advanced Copilot in Excel (PDF)](https://github.com/liquid-books/ai-copilot-bankunited/raw/main/decks/Advanced_Copilot_in_Excel.pdf)**
+
 ---
 
 ## 📁 Chapter Resources
@@ -73,6 +75,12 @@ Download the files for each chapter below.
 | BankUnited Copilot Excel Masterclass Demo Workbook | Excel | [⬇ Download](https://github.com/liquid-books/ai-copilot-bankunited/raw/main/resources/BankUnited_Copilot_Excel_Masterclass_Demo_Workbook.xlsx) |
 | Hands-On Lab: Building an AI-Assisted Banking Analytics Workflow in Excel | PDF | [⬇ Download](https://github.com/liquid-books/ai-copilot-bankunited/raw/main/resources/Hands-On_Lab_Building_an_AI-Assisted_Banking_Analytics_Workflow_in_Excel.pdf) |
 | Step-by-Step Live Demo Guide: AI-Assisted Data Analytics in Excel | PDF | [⬇ Download](https://github.com/liquid-books/ai-copilot-bankunited/raw/main/resources/Step-by-Step_Live_Demo_Guide_AI-Assisted_Data_Analytics_in_Excel.pdf) |
+
+### Chapter 13: Advanced Copilot in Excel
+
+| File | Type | Download |
+|------|------|----------|
+| BankUnited Training — Branch Exception Review | Excel | [⬇ Download](https://github.com/liquid-books/ai-copilot-bankunited/raw/main/resources/BankUnited_Training_Branch_Exception_Review.xlsx) |
 
 ---
 
