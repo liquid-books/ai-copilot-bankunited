@@ -47,6 +47,8 @@ project:
       file: chapters/ch12-copilot-in-sharepoint.md
     - title: "Chapter 13: Advanced Copilot in Excel"
       file: chapters/ch13-advanced-excel.md
+    - title: "Chapter 14: Governance — Running the Machine Responsibly"
+      file: chapters/ch14-governance.md
 
 site:
   title: "The Essence of AI: A Microsoft Copilot Master Class for BankUnited"
